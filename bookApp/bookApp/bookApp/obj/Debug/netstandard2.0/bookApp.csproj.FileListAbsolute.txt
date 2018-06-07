@@ -1,0 +1,9 @@
+C:\Users\Shivani.Bayyapu\Desktop\xamarin\bookApp\bookApp\bookApp\bin\Debug\netstandard2.0\bookApp.deps.json
+C:\Users\Shivani.Bayyapu\Desktop\xamarin\bookApp\bookApp\bookApp\bin\Debug\netstandard2.0\bookApp.dll
+C:\Users\Shivani.Bayyapu\Desktop\xamarin\bookApp\bookApp\bookApp\bin\Debug\netstandard2.0\bookApp.pdb
+C:\Users\Shivani.Bayyapu\Desktop\xamarin\bookApp\bookApp\bookApp\obj\Debug\netstandard2.0\bookApp.csprojAssemblyReference.cache
+C:\Users\Shivani.Bayyapu\Desktop\xamarin\bookApp\bookApp\bookApp\obj\Debug\netstandard2.0\bookApp.csproj.CoreCompileInputs.cache
+C:\Users\Shivani.Bayyapu\Desktop\xamarin\bookApp\bookApp\bookApp\obj\Debug\netstandard2.0\bookApp.AssemblyInfoInputs.cache
+C:\Users\Shivani.Bayyapu\Desktop\xamarin\bookApp\bookApp\bookApp\obj\Debug\netstandard2.0\bookApp.AssemblyInfo.cs
+C:\Users\Shivani.Bayyapu\Desktop\xamarin\bookApp\bookApp\bookApp\obj\Debug\netstandard2.0\bookApp.dll
+C:\Users\Shivani.Bayyapu\Desktop\xamarin\bookApp\bookApp\bookApp\obj\Debug\netstandard2.0\bookApp.pdb
